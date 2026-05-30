@@ -1,6 +1,6 @@
 ﻿# AZ-Convert
 
-Version: 1.0.5
+Version: 1.0.7
 
 Local bulk file conversion.
 
