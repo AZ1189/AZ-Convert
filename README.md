@@ -2,9 +2,9 @@
 
 Public installer-only repository for AZ-Convert.
 
-Version: 1.0.1
+Version: 1.0.2
 Installer: AZ-Convert-Setup.exe
-Release notes: Version 1.0.1. Updates the installer usage notice to list only the usage totals and sign-in account link that AZ apps save, rebuilds the signed installer, and keeps source code local-only.
-SHA-256: D46E4E04A8F9BD3343B63AED213B391DB3D7F150DEC2F191CD119770CF8BF114
+Release notes: Version 1.0.2. Publishes the current installer set one patch version ahead of 1.0.1, with installer-only GitHub releases and source code kept local-only.
+SHA-256: 72424CCA5B20AC8C3EF198E49392351CA81B81580F7801AF5EF1E5C1C20287E5
 
 Source code stays local-only and is not published in this repository.
