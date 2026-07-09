@@ -2,9 +2,9 @@
 
 Public installer-only repository for AZ-Convert.
 
-Version: 1.0.2
+Version: 1.0.3
 Installer: AZ-Convert-Setup.exe
-Release notes: Version 1.0.2. Publishes the current installer set one patch version ahead of 1.0.1, with installer-only GitHub releases and source code kept local-only.
-SHA-256: 72424CCA5B20AC8C3EF198E49392351CA81B81580F7801AF5EF1E5C1C20287E5
+Release notes: Version 1.0.3. Adds Light, Dark, and System theme controls to the Settings ribbon area across AZ apps, with refreshed installer-only GitHub releases and source code kept local-only.
+SHA-256: 7811157B6EA70651DDD93299E9A8BDBE92A7BF275ED58633DAF49068980F45CF
 
 Source code stays local-only and is not published in this repository.
